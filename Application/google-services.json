@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "639177652010",
+    "firebase_url": "https://vend-1bc5c.firebaseio.com",
+    "project_id": "vend-1bc5c",
+    "storage_bucket": "vend-1bc5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639177652010:android:057e92167ca9714a",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothlegatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639177652010-eog37ho2ukc2eurkbj77u5qk2s2mdeqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQMMjtTZyx5lq-QdG67j8oDNKJGUdO10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
